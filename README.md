@@ -1,4 +1,5 @@
-# Image_Acqusition-_using_Web_Camera
+# Exp 2 Image_Acqusition-_using_Web_Camera
+### Date: 22-02-2024
 ## Aim
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -26,8 +27,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ``` Python
-### Developed By:Nathin R
-### Register No:212222230090
+ Developed By: Nathin R
+ Register No:212222230090
 ```
 ## i) Write the frame as JPG file
 ```
